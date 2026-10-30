@@ -20,7 +20,9 @@ change, be unavailable, or be removed.
 When you use AI or translation commands, the text you submit is sent to the
 relevant third-party service so it can return a response. Do not submit
 passwords, private information, or content you are not comfortable sharing
-with that provider.
+with that provider. Reply-based commands can send the referenced message's
+text, including another person's text. Only submit content that you are
+authorized to share with that service.
 
 AI and translation responses can be inaccurate. Check important information
 before relying on it.
@@ -45,3 +47,4 @@ law does not allow it to be limited.
 
 For questions about these terms, contact the 47Bikelife community team through
 the [official Discord server](https://discord.gg/47Bikelife).
+
