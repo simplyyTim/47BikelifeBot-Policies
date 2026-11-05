@@ -1,6 +1,6 @@
 # 47Bikelife Discord Bot — Terms of Service
 
-Last updated: October 30, 2026
+Last updated: November 5, 2026
 
 These terms apply to your use of the 47Bikelife Discord Bot in the 47Bikelife
 Discord community.
@@ -20,8 +20,8 @@ change, be unavailable, or be removed.
 When you use AI or translation commands, the text you submit is sent to the
 relevant third-party service so it can return a response. Do not submit
 passwords, private information, or content you are not comfortable sharing
-with that provider. Reply-based commands can send the referenced message's
-text, including another person's text. Only submit content that you are
+with that provider. Message actions and supported reply-based commands can
+send the selected or referenced message's text, including another person's text. Only submit content that you are
 authorized to share with that service.
 
 AI and translation responses can be inaccurate. Check important information
@@ -34,7 +34,7 @@ about those actions.
 ## Third-party services
 
 The bot depends on Discord, its hosting provider, the MX Bikes server host,
-Groq for AI responses, and MyMemory for translations. Their services are
+Groq for AI responses and translations. Their services are
 governed by their own terms and may be unavailable independently of the bot.
 
 ## Availability and liability
